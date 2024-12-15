@@ -20,7 +20,7 @@ jobs:
 
     - name: Config Key
       env:
-        ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_KEY }}
+        ACTION_DEPLOY_KEY: ${{ secrets.BLOG }}
       run: |
         mkdir -p ~/.ssh/
         echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa_blog
