@@ -1,27 +1,11 @@
 ---
-title: test
+title: AI 提示词
 categories:
   - - tool
-    - linux
 tags:
   - tool
 ---
 
-test
-
-```python
-import logging
-logging.basicConfig(
-    level=logging.DEBUG,
-    filename="test.log",
-    datefmt="%Y-%m-%d %H:%M:%S",
-    format="【%(asctime)s %(levelname)s】 %(lineno)d: %(message)s"
-)
-logging.debug("debug")
-logging.info("info")
-logging.warning("warning")
-logging.error("error")
-```
 #### Prompt
 你是一位科研论文审稿员，擅长写作高质量的英文科研论文。请你帮我准确且学术性地将以下中文翻译成英文，风格与英文科研论文保持一致。
 分三步进行翻译工作，并打印每步的结果：
@@ -32,4 +16,3 @@ logging.error("error")
     - 晦涩难懂，模棱两可，不易理解，可以尝试给出解释
 3. 根据第一步直译的结果和第二步指出的问题，重新进行意译，保证内容的原意的基础上，使其更易于理解，更符合英文科研论文的表达习惯，同时保持原有的格式不变。-输入格式为Markdown格式，输出格式也必须保留原始Markdown格式。这条仅需要回答是否OK,接下来我将给你原文。
 
-还是测试
