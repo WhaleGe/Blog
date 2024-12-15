@@ -5,7 +5,6 @@ categories:
     - linux
 tags:
   - tool
-  - linux
 ---
 
 test
