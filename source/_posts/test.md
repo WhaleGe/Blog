@@ -1,11 +1,3 @@
-<!--
- * @Author: huangwaidong@genomics.cn
- * @Date: 2024-12-15 22:09:52
- * @LastEditors: huangwaidong@genomics.cn
- * @LastEditTime: 2024-12-15 23:32:58
- * @Description: 
- * Copyright 2024 by huangwaidong All Rights Reserved.
--->
 ---
 title: test
 categories:
