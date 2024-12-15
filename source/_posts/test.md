@@ -1,3 +1,13 @@
+---
+title: test
+categories:
+  - - tool
+    - linux
+tags:
+  - tool
+  - linux
+---
+
 test
 
 ```python
