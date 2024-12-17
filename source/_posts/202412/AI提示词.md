@@ -1,7 +1,9 @@
 ---
 title: AI 提示词
+date：2024-12-15 16:00:00
+updated：2024-12-17 16:39:00
 categories:
-  - - tool
+  - tool
 tags:
   - tool
 ---
